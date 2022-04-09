@@ -11,5 +11,7 @@ For my COMP6841 Something Awesome Project. It lists the titles of UNSW reddit po
 
 # Credits 
 Kubowania Github profile: https://github.com/kubowania
+
 Kubowania webscraper: https://github.com/kubowania/nodejs-webscraper
+
 Kubowania YT: https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw
